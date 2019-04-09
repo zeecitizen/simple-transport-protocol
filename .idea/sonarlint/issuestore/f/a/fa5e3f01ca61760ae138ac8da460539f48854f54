@@ -1,0 +1,17 @@
+
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(µÅˆÙ
+3squid:S16437"Use a StringBuilder instead.(˜‡ôĞ
+fsquid:S1192/"JDefine a constant instead of duplicating this literal "data set " 4 times.(è›¬§ùÿÿÿÿ
+T
+squid:S106="9Replace this use of System.out or System.err by a logger.(è›¬§ùÿÿÿÿ
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¬¥ÿÿÿÿÿ8ğŒ÷Ÿ-
+8squid:S1643'"Use a StringBuilder instead.(ç ‘Âøÿÿÿÿ
+Nsquid:S1135V"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+nsquid:S2737B"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+Nsquid:S1135J"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(è›¬§ùÿÿÿÿ
+Nsquid:S1135P"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+O
+squid:S106?"9Replace this use of System.out or System.err by a logger.(µÅˆÙ
