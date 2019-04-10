@@ -1,7 +1,5 @@
 package main.java.util;
 
-/** Created by zeesh on 4/9/2019. */
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
